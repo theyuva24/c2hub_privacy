@@ -130,12 +130,18 @@ export default function PrivacyPolicy() {
             </section>
           </div>
 
-          <div className="mt-8 pt-6 border-t border-gray-200">
+          <div className="mt-8 pt-6 border-t border-gray-200 flex gap-4">
             <Link 
               href="/data-deletion" 
               className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
-              Data Deletion Request
+              Data Deletion Form
+            </Link>
+            <Link 
+              href="/account-deletion" 
+              className="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+            >
+              Account Deletion Guide
             </Link>
           </div>
         </div>
