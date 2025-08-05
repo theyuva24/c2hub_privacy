@@ -15,15 +15,14 @@ export default function PrivacyPolicy() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">1. Information We Collect</h2>
               <p className="text-gray-700 mb-4">
-                We collect information that you provide directly to us, such as when you create an account, 
-                use our services, or contact us for support. This may include:
+                We collect information you provide directly to us, and some information automatically when you use our services. This includes:
               </p>
               <ul className="list-disc pl-6 text-gray-700 mb-4">
-                <li>Account information (name, email address, phone number)</li>
-                <li>Profile information and preferences</li>
-                <li>Usage data and analytics</li>
-                <li>Device information and identifiers</li>
-                <li>Location data (with your consent)</li>
+                <li>Account information (e.g., name, email address, phone number)</li>
+                <li>Profile preferences and content you submit</li>
+                <li>Usage data (e.g., pages visited, features used)</li>
+                <li>Device and technical information (e.g., IP address, OS, browser, device ID)</li>
+                <li>Location data (only with your permission, via device settings)</li>
               </ul>
             </section>
 
@@ -37,6 +36,7 @@ export default function PrivacyPolicy() {
                 <li>Respond to your comments and questions</li>
                 <li>Protect against fraud and abuse</li>
                 <li>Comply with legal obligations</li>
+                <li>Personalize your experience and content, including showing relevant challenges, discussions, or hubs based on your interests</li>
               </ul>
             </section>
 
@@ -51,6 +51,8 @@ export default function PrivacyPolicy() {
                 <li>To comply with legal obligations</li>
                 <li>To protect our rights and safety</li>
                 <li>With service providers who assist in our operations</li>
+                <li>With third-party analytics and service providers (e.g., Firebase, Google Analytics) to help us understand usage patterns and improve the app</li>
+                <li>In aggregated or anonymized form that does not identify individuals</li>
               </ul>
             </section>
 
@@ -59,6 +61,9 @@ export default function PrivacyPolicy() {
               <p className="text-gray-700 mb-4">
                 We implement appropriate technical and organizational measures to protect your personal 
                 information against unauthorized access, alteration, disclosure, or destruction.
+              </p>
+              <p className="text-gray-700 mb-4">
+                Despite our efforts, no method of transmission over the internet or method of electronic storage is 100% secure.
               </p>
             </section>
 
@@ -73,6 +78,9 @@ export default function PrivacyPolicy() {
                 <li>Data portability</li>
                 <li>Withdraw consent where applicable</li>
               </ul>
+              <p className="text-gray-700 mb-4">
+                You may exercise your rights by contacting us at the details below. We may require verification of identity for security purposes.
+              </p>
             </section>
 
             <section className="mb-8">
@@ -115,9 +123,8 @@ export default function PrivacyPolicy() {
               </p>
               <div className="bg-gray-100 p-4 rounded-lg">
                 <p className="text-gray-700">
-                  <strong>Email:</strong> privacy@c2hubs.com<br />
-                  <strong>Address:</strong> [Your Company Address]<br />
-                  <strong>Phone:</strong> [Your Contact Number]
+                  <strong>Email:</strong> yuva2024@gmail.com<br />
+                  <strong>Address:</strong> Bangalore, India
                 </p>
               </div>
             </section>
