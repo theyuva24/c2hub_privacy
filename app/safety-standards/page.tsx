@@ -17,7 +17,7 @@ export default function ChildSafetyStandards() {
             <section className="mb-6">
               <h2 className="text-2xl font-semibold text-gray-900">1. Our Commitment</h2>
               <p>
-                C2 Hubs is committed to ensuring the safety of all users, especially minors.
+                C2 Club is committed to ensuring the safety of all users, especially minors.
                 We maintain a strict zero-tolerance policy against child sexual abuse material (CSAM)
                 and any form of child exploitation.
               </p>

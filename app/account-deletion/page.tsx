@@ -5,21 +5,21 @@ export default function AccountDeletion() {
     <div className="min-h-screen bg-gray-50 py-8">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-white shadow-lg rounded-lg p-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-8">🧾 Delete Your C2 Hubs Account and Data</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-8">🧾 Delete Your C2 Club Account and Data</h1>
           
           <div className="prose prose-lg max-w-none">
             <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
               <p className="text-sm text-blue-800">
                 <strong>Last updated:</strong> August 5, 2025<br />
-                <strong>App name:</strong> C2 Hubs<br />
-                <strong>Developer name:</strong> C2 Hubs Team
+                <strong>App name:</strong> C2 Club<br />
+                <strong>Developer name:</strong> C2 Club Team
               </p>
             </div>
 
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">🔐 How to Request Account Deletion</h2>
               <p className="text-gray-700 mb-4">
-                If you no longer wish to use C2 Hubs and want your account and personal data deleted, 
+                If you no longer wish to use C2 Club and want your account and personal data deleted, 
                 you can request deletion using one of the following methods:
               </p>
               
@@ -29,7 +29,7 @@ export default function AccountDeletion() {
                   You can email us at <strong>yuva2024@gmail.com</strong> with the subject line:
                 </p>
                 <div className="bg-gray-100 p-3 rounded font-mono text-sm">
-                  &quot;Delete My C2 Hubs Account&quot;
+                  &quot;Delete My C2 Club Account&quot;
                 </div>
                 <p className="text-gray-700 mt-2">
                   Please include your registered phone number in the email so we can verify your account 

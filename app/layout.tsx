@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "C2 Hubs Privacy Policy",
-  description: "Privacy Policy and Data Deletion Request for C2 Hubs App",
+  title: "C2 Club Privacy Policy",
+  description: "Privacy Policy and Data Deletion Request for C2 Club App",
 };
 
 export default function RootLayout({
