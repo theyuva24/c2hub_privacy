@@ -9,7 +9,7 @@ export default function Home() {
           
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-600 mb-6">
-              Welcome to C2 Club's privacy policy and data management center.
+              Welcome to C2 Club&apos;s privacy policy and data management center.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
