@@ -1,7 +1,4 @@
 {
   "name": "c2-hubs-privacy",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Static build complete'"
-  }
+  "version": "1.0.0"
 }
