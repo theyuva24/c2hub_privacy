@@ -60,7 +60,7 @@ export default function DataDeletion() {
               </ul>
             </div>
             <Link 
-              href="/privacy" 
+              href="https://c2-hubs-privacy.vercel.app/privacy" 
               className="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
               Back to Privacy Policy
@@ -156,7 +156,7 @@ export default function DataDeletion() {
 
             <div className="flex items-center justify-between pt-6">
               <Link 
-                href="/privacy" 
+                href="https://c2-hubs-privacy.vercel.app/privacy" 
                 className="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
               >
                 Cancel

@@ -19,7 +19,7 @@ export default function Home() {
                   Learn how we collect, use, and protect your personal information.
                 </p>
                 <Link 
-                  href="/privacy" 
+                  href="https://c2-hubs-privacy.vercel.app/privacy" 
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
                 >
                   Read Privacy Policy →
@@ -32,7 +32,7 @@ export default function Home() {
                   Request deletion of your account and personal data.
                 </p>
                 <Link 
-                  href="/account-deletion" 
+                  href="https://c2-hubs-privacy.vercel.app/account-deletion" 
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-green-600 hover:bg-green-700"
                 >
                   Delete Account →
@@ -45,7 +45,7 @@ export default function Home() {
                   Fill out our data deletion request form.
                 </p>
                 <Link 
-                  href="/data-deletion" 
+                  href="https://c2-hubs-privacy.vercel.app/data-deletion" 
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-yellow-600 hover:bg-yellow-700"
                 >
                   Data Deletion Form →
@@ -58,7 +58,7 @@ export default function Home() {
                   Our commitment to child safety and content moderation.
                 </p>
                 <Link 
-                  href="/safety-standards" 
+                  href="https://c2-hubs-privacy.vercel.app/safety-standards" 
                   className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-red-600 hover:bg-red-700"
                 >
                   Safety Standards →
@@ -69,7 +69,7 @@ export default function Home() {
             <div className="bg-gray-100 p-6 rounded-lg">
               <h3 className="text-lg font-semibold text-gray-900 mb-3">Contact Information</h3>
               <p className="text-gray-700">
-                <strong>Email:</strong> yuva2024@gmail.com<br />
+                <strong>Email:</strong> theyuva2024@gmail.com<br />
                 <strong>Address:</strong> Bangalore, India
               </p>
             </div>

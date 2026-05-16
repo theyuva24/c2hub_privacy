@@ -26,7 +26,7 @@ export default function AccountDeletion() {
               <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6">
                 <h3 className="font-semibold text-yellow-900 mb-2">📧 Email Request</h3>
                 <p className="text-gray-700 mb-2">
-                  You can email us at <strong>yuva2024@gmail.com</strong> with the subject line:
+                  You can email us at <strong>theyuva2024@gmail.com</strong> with the subject line:
                 </p>
                 <div className="bg-gray-100 p-3 rounded font-mono text-sm">
                   &quot;Delete My C2 Club Account&quot;
@@ -84,7 +84,7 @@ export default function AccountDeletion() {
               </p>
               <div className="bg-gray-100 p-4 rounded-lg">
                 <p className="text-gray-700">
-                  <strong>📧 Email:</strong> yuva2024@gmail.com
+                  <strong>📧 Email:</strong> theyuva2024@gmail.com
                 </p>
               </div>
             </section>
@@ -92,13 +92,13 @@ export default function AccountDeletion() {
 
           <div className="mt-8 pt-6 border-t border-gray-200 flex gap-4">
             <Link 
-              href="/privacy" 
+              href="https://c2-hubs-privacy.vercel.app/privacy" 
               className="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
               ← Back to Privacy Policy
             </Link>
             <Link 
-              href="/data-deletion" 
+              href="https://c2-hubs-privacy.vercel.app/data-deletion" 
               className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             >
               Data Deletion Form →

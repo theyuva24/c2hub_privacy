@@ -69,7 +69,7 @@ export default function ChildSafetyStandards() {
 
           <div className="mt-8 pt-6 border-t border-gray-200">
             <Link
-              href="/"
+              href="https://c2-hubs-privacy.vercel.app/"
               className="text-sm font-medium text-blue-600 hover:underline"
             >
               Back to Home
