@@ -12,11 +12,11 @@ export default function PrivacyPolicy() {
               <strong>Effective Date:</strong> 10 February 2026<br />
               <strong>Owner / Data Controller:</strong> Yuvaapricity Tech Solutions Pvt Ltd<br />
               <strong>App Name:</strong> C2 Club<br />
-              <strong>Contact:</strong> <a href="mailto:support@c2club.in" className="text-blue-600 hover:underline">support@c2club.in</a><br />
+              <strong>Contact:</strong> <a href="mailto:theyuva2024@gmail.com" className="text-blue-600 hover:underline">theyuva2024@gmail.com</a><br />
               <strong>Country of Operation:</strong> India
             </p>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">1. Overview</h2>
               <p className="mb-4">
                 This Privacy Policy explains what information C2 Club collects, how it is used, how it is protected, and the choices available to users. By using C2 Club, you agree to the collection and use of information as described in this policy.
@@ -26,7 +26,7 @@ export default function PrivacyPolicy() {
               </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">2. Information We Collect</h2>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Information You Provide</h3>
               <p className="mb-2">We may collect the following information when you create and use an account:</p>
@@ -49,9 +49,17 @@ export default function PrivacyPolicy() {
                 <li>Crash logs and performance data</li>
                 <li>Analytics data through Firebase / Google Cloud services</li>
               </ul>
+
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">Community Hubs</h3>
+              <p className="mb-4">
+                C2 Club allows users to create or join community hubs based on interests, institutions, courses, or locations. When users join or interact within hubs, the platform may record hub membership, participation activity, posts, comments, and interaction data to provide community functionality, moderation, recommendations, and service improvements.
+              </p>
+              <p className="mb-4">
+                Certain hubs may be open for all users to join, while others may require approval from hub administrators. Depending on hub settings, certain profile information and shared content may be visible to other hub members.
+              </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">3. How We Use Information</h2>
               <p className="mb-2">We use collected information to:</p>
               <ul className="list-disc pl-6 mb-4">
@@ -66,11 +74,12 @@ export default function PrivacyPolicy() {
               <p className="mb-4"><strong>We do not sell personal data.</strong></p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">4. Public Content and Anonymous Posting</h2>
               <p className="mb-4">
                 Posts, comments, images, and other publicly shared content are visible to other users within the app.
               </p>
+              
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Advanced Anonymity Protection</h3>
               <p className="mb-4">
                 When you choose to post or comment anonymously, C2 Club uses an internal <strong>Ghost Identity architecture</strong> designed to protect your identity from other users:
@@ -82,9 +91,25 @@ export default function PrivacyPolicy() {
                 <li>System notifications generated from anonymous interactions are identity-scrubbed, meaning no identifying personal metadata is transmitted to other users’ devices through notification payloads.</li>
                 <li>Anonymous content remains anonymous to other users; however, the platform may internally identify the account responsible for such content if required to enforce platform rules, investigate abuse, or comply with legal obligations.</li>
               </ul>
+
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">Messaging and Communication Features</h3>
+              <p className="mb-4">
+                C2 Club provides in-app communication features that allow users to exchange messages after a mutual connection is established. Messaging features may also be used to communicate regarding listings, marketplace interactions, or community activities.
+              </p>
+              <p className="mb-4">
+                When users send messages through the platform, message content, attachments, timestamps, and related interaction data may be stored and processed to deliver the service, maintain system security, prevent spam or abuse, and enable user support functions. Messaging data is accessible only to the communicating users and authorized system processes, except where limited access is required for safety investigations, abuse reporting, or legal compliance.
+              </p>
+
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">Marketplace Listings and Transactions</h3>
+              <p className="mb-4">
+                C2 Club may allow users to post listings for buying, selling, or exchanging goods and services. When users create listings, the platform may collect and display information necessary to facilitate transactions, including item descriptions, images, pricing information, and general location details.
+              </p>
+              <p className="mb-4">
+                Location information displayed in listings is limited to general location information provided by users and is intended solely to help facilitate user-to-user transactions. C2 Club does not act as a buyer, seller, or payment intermediary unless explicitly stated within the service. Users are responsible for verifying transaction details and interacting with other users safely.
+              </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">5. Data Sharing</h2>
               <p className="mb-2">We may share information:</p>
               <ul className="list-disc pl-6 mb-4">
@@ -96,7 +121,7 @@ export default function PrivacyPolicy() {
               </ul>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">6. Account Deletion</h2>
               <p className="mb-4">Users may delete their account at any time through the app. During deletion, users may be provided options to:</p>
               <ul className="list-disc pl-6 mb-4">
@@ -113,7 +138,7 @@ export default function PrivacyPolicy() {
               </ul>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">7. Reward Programs and Incentive Payments</h2>
               <p className="mb-4">
                 C2 Club may introduce promotional challenges, competitions, or incentive programs in which users may receive rewards based on participation or performance.
@@ -126,41 +151,44 @@ export default function PrivacyPolicy() {
               </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">8. Data Security</h2>
               <p className="mb-4">
                 We implement reasonable technical and organizational safeguards to protect user data, including secure storage, restricted access, and encrypted communication. However, no digital system can be guaranteed to be completely secure.
               </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">9. Children’s Privacy</h2>
               <p className="mb-4">
                 C2 Club is not intended for children under 13 years of age. Accounts identified as belonging to users under 13 may be removed from our systems. Users aged 13–17 should use the platform with parental or guardian guidance.
               </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">10. Changes to This Policy</h2>
               <p className="mb-4">
                 We may update this Privacy Policy periodically to reflect service changes or legal requirements. Updated versions will be posted within the app or website with a revised effective date.
               </p>
             </section>
 
-            <section className="mb-8">
+            <section className="mb-8 border-t pt-6">
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">11. Contact Us</h2>
               <p className="mb-4">
                 For any privacy-related questions, requests, or concerns, contact:
               </p>
               <div className="bg-gray-100 p-4 rounded-lg">
                 <p className="text-gray-700">
-                  <strong>Email:</strong> <a href="mailto:support@c2club.in" className="text-blue-600 hover:underline">support@c2club.in</a>
+                  <strong>Email:</strong> <a href="mailto:theyuva2024@gmail.com" className="text-blue-600 hover:underline">theyuva2024@gmail.com</a>
+                </p>
+                <p className="text-gray-700 mt-2">
+                  <strong>Company:</strong> Yuvaapricity Tech Solutions Pvt Ltd
                 </p>
               </div>
             </section>
           </div>
 
-          <div className="mt-8 pt-6 border-t border-gray-200 flex gap-4">
+          <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap gap-4">
             <Link 
               href="https://c2-hubs-privacy.vercel.app/data-deletion" 
               className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
